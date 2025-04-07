@@ -1,0 +1,25 @@
+# Core dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Data handling & processing
+numpy
+pandas
+opencv-python
+Pillow
+albumentations
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+tqdm
+
+# Evaluation metrics
+torchmetrics
+
+# Optional: Jupyter support
+jupyter
+
+# Optional: Logging and experiment tracking
+wandb
